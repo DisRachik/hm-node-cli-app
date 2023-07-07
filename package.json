@@ -1,0 +1,21 @@
+{
+	"name": "hm-node-cli-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index",
+		"dev": "nodemon index"
+	},
+	"author": "Ihor Radchenko <radchenkoig@gmail.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"nanoid": "^4.0.2",
+		"nodemon": "^2.0.22"
+	},
+	"dependencies": {
+		"commander": "^11.0.0"
+	}
+}

@@ -12,10 +12,10 @@
 	"author": "Ihor Radchenko <radchenkoig@gmail.com>",
 	"license": "ISC",
 	"devDependencies": {
-		"nanoid": "^4.0.2",
 		"nodemon": "^2.0.22"
 	},
 	"dependencies": {
-		"commander": "^11.0.0"
+		"commander": "^11.0.0",
+		"nanoid": "^4.0.2"
 	}
 }
